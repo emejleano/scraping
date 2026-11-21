@@ -1,0 +1,7 @@
+1. buka cmd/terminal pada folder ini
+2. buat likungan venv, ketik ini di terminal 'python -m venv venv'
+3. kalo udah masuk venv ketik venv\Scripts\activate
+4. kalo udah masuk (venv) ketik pip install -r requirements.txt
+5. kalo udah ke install tinggal jalanin dengan mengetik 'python collect_jobs.py' ini untuk scraping
+6. kemudian kalo udah lanjut bersihin dengan ketik 'python build_corpus.py --indonesia-only'
+7. kemudian generate profile 'python generate_profiles.py'

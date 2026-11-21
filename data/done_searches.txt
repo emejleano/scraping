@@ -1,0 +1,367 @@
+uiux|ui designer|Jakarta
+data_analyst|data analyst|Medan
+network_qa|quality assurance|Jakarta
+uiux|product designer|Bandung
+uiux|ui designer|Yogyakarta
+backend|backend engineer|Indonesia
+data_scientist|data engineer|Indonesia
+data_analyst|analis data|Bandung
+data_analyst|data analyst|Bali
+network_qa|network engineer|Jakarta
+devops|system administrator|Bali
+network_qa|quality assurance|Semarang
+network_qa|network engineer|Bandung
+uiux|ui ux designer|Indonesia
+backend|java developer|Bali
+backend|java developer|Jakarta
+backend|backend developer|Semarang
+data_scientist|machine learning engineer|Surabaya
+backend|python developer|Yogyakarta
+frontend|react developer|Jakarta
+devops|system administrator|Indonesia
+frontend|vue developer|Bandung
+devops|devops engineer|Yogyakarta
+data_scientist|machine learning engineer|Jakarta
+backend|java developer|Surabaya
+network_qa|network engineer|Medan
+devops|cloud engineer|Bandung
+devops|devops engineer|Jakarta
+frontend|web developer|Bandung
+devops|site reliability engineer|Surabaya
+devops|site reliability engineer|Bandung
+devops|site reliability engineer|Yogyakarta
+network_qa|network engineer|Semarang
+data_scientist|nlp engineer|Bandung
+data_scientist|data scientist|Surabaya
+frontend|frontend developer|Jakarta
+devops|cloud engineer|Indonesia
+backend|backend developer|Surabaya
+data_analyst|bi developer|Surabaya
+backend|python developer|Bandung
+devops|system administrator|Bandung
+devops|cloud engineer|Surabaya
+network_qa|qa engineer|Semarang
+data_analyst|bi developer|Jakarta
+devops|devops engineer|Medan
+data_scientist|data engineer|Bali
+devops|system administrator|Yogyakarta
+network_qa|quality assurance|Bandung
+data_scientist|data engineer|Bandung
+data_analyst|data analyst|Yogyakarta
+frontend|front end developer|Surabaya
+data_scientist|data scientist|Medan
+data_scientist|ai engineer|Medan
+frontend|react developer|Semarang
+data_scientist|nlp engineer|Surabaya
+backend|node.js developer|Yogyakarta
+uiux|ui ux designer|Medan
+frontend|vue developer|Semarang
+devops|system administrator|Medan
+network_qa|qa engineer|Jakarta
+devops|site reliability engineer|Medan
+data_analyst|data analyst|Semarang
+frontend|frontend developer|Medan
+network_qa|qa engineer|Bandung
+network_qa|software tester|Medan
+network_qa|quality assurance|Indonesia
+frontend|react developer|Surabaya
+backend|laravel developer|Indonesia
+data_scientist|machine learning engineer|Yogyakarta
+backend|java developer|Bandung
+backend|laravel developer|Semarang
+data_analyst|data analytics|Yogyakarta
+uiux|ui designer|Bandung
+frontend|frontend developer|Indonesia
+devops|cloud engineer|Yogyakarta
+data_analyst|business intelligence analyst|Medan
+data_scientist|nlp engineer|Bali
+data_scientist|ai engineer|Semarang
+backend|node.js developer|Jakarta
+uiux|ux designer|Indonesia
+frontend|frontend developer|Bandung
+uiux|ui ux designer|Surabaya
+backend|backend developer|Medan
+data_analyst|analis data|Surabaya
+data_scientist|data engineer|Jakarta
+backend|backend engineer|Bandung
+data_analyst|data analyst|Indonesia
+data_analyst|data analytics|Bali
+frontend|front end developer|Yogyakarta
+data_scientist|data scientist|Bali
+uiux|ui ux designer|Semarang
+frontend|frontend developer|Yogyakarta
+uiux|ux designer|Bali
+uiux|ux designer|Medan
+data_scientist|data engineer|Semarang
+backend|node.js developer|Surabaya
+frontend|web developer|Jakarta
+backend|laravel developer|Yogyakarta
+backend|node.js developer|Semarang
+uiux|product designer|Indonesia
+data_analyst|business intelligence analyst|Yogyakarta
+devops|devops engineer|Surabaya
+data_scientist|data engineer|Medan
+backend|backend developer|Bandung
+backend|java developer|Yogyakarta
+data_analyst|bi developer|Bali
+uiux|ux designer|Bandung
+data_analyst|business intelligence analyst|Bali
+data_analyst|bi developer|Bandung
+backend|node.js developer|Bandung
+backend|python developer|Jakarta
+devops|cloud engineer|Medan
+data_analyst|data analyst|Jakarta
+uiux|product designer|Jakarta
+devops|devops engineer|Semarang
+data_analyst|bi developer|Medan
+data_analyst|data analytics|Medan
+data_analyst|data analyst|Surabaya
+data_scientist|nlp engineer|Jakarta
+uiux|ui designer|Bali
+backend|laravel developer|Surabaya
+data_analyst|data analytics|Semarang
+backend|node.js developer|Bali
+uiux|ui designer|Medan
+uiux|ui ux designer|Jakarta
+backend|java developer|Medan
+devops|site reliability engineer|Indonesia
+data_scientist|ai engineer|Indonesia
+data_analyst|bi developer|Yogyakarta
+devops|system administrator|Semarang
+data_analyst|bi developer|Semarang
+devops|system administrator|Jakarta
+backend|node.js developer|Indonesia
+uiux|ui designer|Semarang
+devops|cloud engineer|Jakarta
+data_scientist|machine learning engineer|Bali
+uiux|ui designer|Indonesia
+backend|laravel developer|Bali
+backend|backend developer|Jakarta
+data_analyst|analis data|Jakarta
+data_analyst|analis data|Bali
+backend|backend developer|Yogyakarta
+uiux|ux designer|Jakarta
+data_scientist|nlp engineer|Medan
+data_scientist|ai engineer|Bali
+data_scientist|data scientist|Yogyakarta
+data_analyst|business intelligence analyst|Surabaya
+data_scientist|nlp engineer|Semarang
+data_scientist|machine learning engineer|Medan
+data_scientist|data scientist|Bandung
+data_analyst|data analytics|Bandung
+data_scientist|ai engineer|Yogyakarta
+data_scientist|data engineer|Surabaya
+data_scientist|ai engineer|Surabaya
+data_analyst|business intelligence analyst|Bandung
+data_scientist|machine learning engineer|Bandung
+data_scientist|data engineer|Yogyakarta
+data_analyst|business intelligence analyst|Semarang
+data_analyst|data analytics|Indonesia
+data_analyst|analis data|Yogyakarta
+data_scientist|nlp engineer|Yogyakarta
+data_analyst|data analytics|Jakarta
+data_scientist|machine learning engineer|Indonesia
+data_scientist|data scientist|Jakarta
+network_qa|network administrator|Indonesia
+network_qa|network engineer|Bali
+network_qa|network administrator|Semarang
+network_qa|software tester|Semarang
+network_qa|qa engineer|Medan
+network_qa|software tester|Yogyakarta
+network_qa|software tester|Bandung
+frontend|web developer|Indonesia
+frontend|frontend developer|Bali
+frontend|frontend developer|Semarang
+network_qa|network engineer|Indonesia
+network_qa|quality assurance|Medan
+network_qa|network administrator|Surabaya
+frontend|vue developer|Indonesia
+network_qa|software tester|Surabaya
+frontend|vue developer|Bali
+network_qa|network administrator|Yogyakarta
+network_qa|network administrator|Medan
+network_qa|network administrator|Jakarta
+network_qa|quality assurance|Bali
+network_qa|network engineer|Yogyakarta
+frontend|frontend developer|Surabaya
+frontend|web developer|Semarang
+network_qa|qa engineer|Indonesia
+frontend|react developer|Indonesia
+frontend|react developer|Medan
+frontend|web developer|Medan
+frontend|front end developer|Indonesia
+frontend|react developer|Bandung
+frontend|front end developer|Bali
+frontend|vue developer|Yogyakarta
+devops|devops engineer|Bandung
+backend|python developer|Bali
+uiux|product designer|Semarang
+frontend|front end developer|Jakarta
+uiux|product designer|Bali
+frontend|web developer|Yogyakarta
+frontend|vue developer|Medan
+uiux|ui ux designer|Bali
+uiux|ux designer|Yogyakarta
+uiux|ui ux designer|Yogyakarta
+backend|backend engineer|Surabaya
+backend|backend engineer|Bali
+backend|backend engineer|Medan
+frontend|vue developer|Surabaya
+backend|python developer|Semarang
+devops|site reliability engineer|Semarang
+uiux|product designer|Medan
+uiux|ui ux designer|Bandung
+devops|system administrator|Surabaya
+uiux|ux designer|Semarang
+frontend|react developer|Yogyakarta
+backend|backend engineer|Semarang
+frontend|web developer|Bali
+frontend|vue developer|Jakarta
+devops|cloud engineer|Semarang
+frontend|front end developer|Medan
+backend|laravel developer|Jakarta
+frontend|front end developer|Bandung
+backend|python developer|Medan
+uiux|ui designer|Surabaya
+backend|backend engineer|Jakarta
+backend|backend engineer|Yogyakarta
+backend|laravel developer|Bandung
+data_analyst|business intelligence analyst|Indonesia
+data_analyst|data analytics|Surabaya
+backend|backend developer|Bali
+uiux|product designer|Yogyakarta
+data_analyst|bi developer|Indonesia
+uiux|ux designer|Surabaya
+devops|devops engineer|Bali
+uiux|product designer|Surabaya
+data_analyst|data analyst|Bandung
+devops|site reliability engineer|Bali
+devops|devops engineer|Indonesia
+data_scientist|ai engineer|Jakarta
+devops|cloud engineer|Bali
+data_analyst|analis data|Medan
+data_scientist|data scientist|Indonesia
+data_analyst|analis data|Indonesia
+data_analyst|business intelligence analyst|Jakarta
+devops|site reliability engineer|Jakarta
+data_scientist|data scientist|Semarang
+data_scientist|machine learning engineer|Semarang
+data_scientist|nlp engineer|Indonesia
+data_analyst|analis data|Semarang
+data_scientist|ai engineer|Bandung
+network_qa|software tester|Jakarta
+network_qa|software tester|Bali
+network_qa|qa engineer|Surabaya
+network_qa|qa engineer|Bali
+network_qa|network administrator|Bandung
+network_qa|network engineer|Surabaya
+frontend|web developer|Surabaya
+backend|backend developer|Indonesia
+backend|java developer|Semarang
+frontend|react developer|Bali
+backend|laravel developer|Medan
+backend|python developer|Indonesia
+backend|java developer|Indonesia
+backend|python developer|Surabaya
+backend|node.js developer|Medan
+frontend|front end developer|Semarang
+network_qa|network administrator|Bali
+network_qa|software tester|Indonesia
+network_qa|qa engineer|Yogyakarta
+network_qa|quality assurance|Surabaya
+network_qa|quality assurance|Yogyakarta
+network|lowongan infrastructure engineer|Bandung
+data_scientist|data scientist indonesia|Surabaya
+backend|lowongan java developer|Jakarta
+data_scientist|dibutuhkan machine learning engineer|Semarang
+qa_tester|lowongan qa engineer|Yogyakarta
+data_scientist|kualifikasi ai engineer|Yogyakarta
+frontend|lowongan vue developer|Bandung
+data_scientist|lowongan nlp engineer|Surabaya
+uiux|lowongan ui ux designer|Bali
+backend|dibutuhkan laravel developer|Medan
+data_analyst|kualifikasi business intelligence|Yogyakarta
+qa_tester|lowongan automation tester|Surabaya
+qa_tester|qa tester indonesia|Indonesia
+qa_tester|lowongan automation tester|Medan
+devops|devops engineer indonesia|Yogyakarta
+frontend|lowongan vue developer|Bali
+frontend|kualifikasi react developer|Yogyakarta
+data_analyst|dibutuhkan analis data|Bandung
+data_scientist|dibutuhkan machine learning engineer|Medan
+frontend|lowongan frontend developer|Bandung
+uiux|kualifikasi ux designer|Bandung
+data_analyst|kualifikasi business intelligence|Jakarta
+network|kualifikasi teknisi jaringan|Jakarta
+data_scientist|lowongan data scientist|Jakarta
+backend|lowongan backend engineer|Bali
+network|kualifikasi teknisi jaringan|Bandung
+qa_tester|kualifikasi quality assurance|Medan
+data_scientist|lowongan data scientist|Surabaya
+network|dibutuhkan network administrator|Yogyakarta
+uiux|lowongan graphic designer ui|Jakarta
+qa_tester|kualifikasi quality assurance|Yogyakarta
+network|lowongan infrastructure engineer|Yogyakarta
+network|dibutuhkan network administrator|Surabaya
+backend|lowongan java developer|Surabaya
+data_analyst|dibutuhkan analis data|Jakarta
+frontend|lowongan vue developer|Medan
+backend|dibutuhkan laravel developer|Jakarta
+uiux|kualifikasi ux designer|Semarang
+backend|lowongan java developer|Medan
+data_scientist|lowongan nlp engineer|Medan
+frontend|front end developer indonesia|Bandung
+uiux|dibutuhkan product designer|Yogyakarta
+data_analyst|dibutuhkan analis data|Bali
+network|kualifikasi teknisi jaringan|Indonesia
+frontend|front end developer indonesia|Surabaya
+frontend|dibutuhkan web developer|Surabaya
+devops|devops engineer indonesia|Semarang
+frontend|lowongan frontend developer|Medan
+data_analyst|data analyst indonesia|Bandung
+frontend|lowongan vue developer|Surabaya
+data_scientist|data scientist indonesia|Indonesia
+qa_tester|dibutuhkan software tester|Bali
+data_analyst|lowongan data analyst|Bali
+data_analyst|dibutuhkan analis data|Medan
+devops|lowongan devops engineer|Jakarta
+data_analyst|data analyst indonesia|Surabaya
+uiux|kualifikasi ux designer|Bali
+network|dibutuhkan network administrator|Medan
+uiux|dibutuhkan product designer|Surabaya
+data_analyst|kualifikasi business intelligence|Semarang
+devops|lowongan devops engineer|Indonesia
+frontend|dibutuhkan web developer|Yogyakarta
+data_analyst|kualifikasi business intelligence|Indonesia
+uiux|lowongan graphic designer ui|Indonesia
+devops|dibutuhkan cloud engineer|Yogyakarta
+network|lowongan network engineer|Surabaya
+qa_tester|dibutuhkan software tester|Medan
+data_analyst|lowongan data analyst|Semarang
+qa_tester|qa tester indonesia|Bali
+qa_tester|kualifikasi quality assurance|Bandung
+network|lowongan network engineer|Bali
+devops|dibutuhkan cloud engineer|Medan
+qa_tester|dibutuhkan software tester|Bandung
+frontend|lowongan frontend developer|Bali
+backend|kualifikasi node.js developer|Yogyakarta
+data_scientist|data scientist indonesia|Yogyakarta
+uiux|lowongan ui ux designer|Bandung
+uiux|ui ux designer indonesia|Semarang
+backend|dibutuhkan laravel developer|Indonesia
+devops|devops engineer indonesia|Bali
+devops|lowongan devops engineer|Surabaya
+frontend|front end developer indonesia|Jakarta
+qa_tester|lowongan qa engineer|Bali
+devops|lowongan devops engineer|Medan
+network|dibutuhkan network administrator|Bali
+backend|kualifikasi node.js developer|Semarang
+uiux|dibutuhkan product designer|Bandung
+backend|lowongan java developer|Bandung
+devops|kualifikasi system administrator|Surabaya
+network|lowongan network engineer|Jakarta
+data_scientist|lowongan nlp engineer|Bali
+network|lowongan network engineer|Semarang
+data_scientist|lowongan data scientist|Yogyakarta
+uiux|lowongan graphic designer ui|Yogyakarta
+frontend|front end developer indonesia|Bali

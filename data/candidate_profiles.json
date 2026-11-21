@@ -1,0 +1,962 @@
+[
+  {
+    "profile_id": "P01_C0",
+    "base_id": "P01",
+    "role_group": "backend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Pengembang Backend Junior memiliki pengalaman 1 tahun dalam membangun dan mengelola layanan web API. Terbiasa merancang basis data relasional, membuat dokumentasi sistem, dan melakukan integrasi RESTful API. Menguasai bahasa PHP, kerangka kerja Laravel, basis data MySQL, dan kontrol versi Git.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P01_C1",
+    "base_id": "P01",
+    "role_group": "backend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Pengembang Backend Junior memiliki pengalaman 1 tahun dalam membangun dan mengelola layanan web API. Terbiasa merancang basis data relasional, membuat dokumentasi sistem, dan melakukan integrasi RESTful API. Proficient in PHP, Laravel framework, MySQL database, and Git version control.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P01_C2",
+    "base_id": "P01",
+    "role_group": "backend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior Backend Developer memiliki pengalaman 1 tahun dalam membangun dan mengelola layanan web API. Terbiasa merancang basis data relasional, membuat dokumentasi sistem, dan melakukan integrasi RESTful API. Proficient in PHP, Laravel framework, MySQL database, and Git version control.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P01_C3",
+    "base_id": "P01",
+    "role_group": "backend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior Backend Developer with 1 year of experience building and maintaining web API services. Experienced in relational database design, writing system documentation, and RESTful API integration. Menguasai bahasa PHP, kerangka kerja Laravel, basis data MySQL, dan kontrol versi Git.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P02_C0",
+    "base_id": "P02",
+    "role_group": "backend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Pengembang Backend Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang arsitektur microservices dan basis data berskala menengah. Berpengalaman mengoptimalkan kueri basis data, manajemen repositori, dan otomasi alur kerja backend. Menguasai Node.js, Express, basis data PostgreSQL, kontainerisasi Docker, dan caching Redis.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P02_C1",
+    "base_id": "P02",
+    "role_group": "backend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Pengembang Backend Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang arsitektur microservices dan basis data berskala menengah. Berpengalaman mengoptimalkan kueri basis data, manajemen repositori, dan otomasi alur kerja backend. Proficient in Node.js, Express, PostgreSQL database, Docker containerization, and Redis caching.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P02_C2",
+    "base_id": "P02",
+    "role_group": "backend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level Backend Engineer memiliki pengalaman 3 tahun dalam merancang arsitektur microservices dan basis data berskala menengah. Berpengalaman mengoptimalkan kueri basis data, manajemen repositori, dan otomasi alur kerja backend. Proficient in Node.js, Express, PostgreSQL database, Docker containerization, and Redis caching.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P02_C3",
+    "base_id": "P02",
+    "role_group": "backend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level Backend Engineer with 3 years of experience designing microservices architecture and medium-scale databases. Experienced in database query optimization, repository management, and automated backend workflows. Menguasai Node.js, Express, basis data PostgreSQL, kontainerisasi Docker, dan caching Redis.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P03_C0",
+    "base_id": "P03",
+    "role_group": "backend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Pengembang Backend Senior memiliki pengalaman 5 tahun memimpin pengembangan sistem terdistribusi skala enterprise. Fokus pada arsitektur dengan ketersediaan tinggi, pemrosesan data real-time, dan otomasi alur kerja deployment. Menguasai Java Spring Boot, Apache Kafka, arsitektur Kubernetes, dan infrastruktur AWS.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P03_C1",
+    "base_id": "P03",
+    "role_group": "backend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Pengembang Backend Senior memiliki pengalaman 5 tahun memimpin pengembangan sistem terdistribusi skala enterprise. Fokus pada arsitektur dengan ketersediaan tinggi, pemrosesan data real-time, dan otomasi alur kerja deployment. Proficient in Java Spring Boot, Apache Kafka, Kubernetes architecture, and AWS cloud infrastructure.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P03_C2",
+    "base_id": "P03",
+    "role_group": "backend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Backend Engineer memiliki pengalaman 5 tahun memimpin pengembangan sistem terdistribusi skala enterprise. Fokus pada arsitektur dengan ketersediaan tinggi, pemrosesan data real-time, dan otomasi alur kerja deployment. Proficient in Java Spring Boot, Apache Kafka, Kubernetes architecture, and AWS cloud infrastructure.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P03_C3",
+    "base_id": "P03",
+    "role_group": "backend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Backend Engineer with 5 years of experience leading enterprise-scale distributed system development. Focused on high-availability architecture, real-time data streaming, and automated deployment pipelines. Menguasai Java Spring Boot, Apache Kafka, arsitektur Kubernetes, dan infrastruktur AWS.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P04_C0",
+    "base_id": "P04",
+    "role_group": "frontend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Pengembang Frontend Junior memiliki pengalaman 1 tahun dalam membangun antarmuka web yang responsif. Terbiasa menerjemahkan desain UI menjadi komponen web interaktif serta melakukan integrasi API. Menguasai HTML5, CSS3, JavaScript ES6, React.js, dan Tailwind CSS.",
+    "word_count": 35
+  },
+  {
+    "profile_id": "P04_C1",
+    "base_id": "P04",
+    "role_group": "frontend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Pengembang Frontend Junior memiliki pengalaman 1 tahun dalam membangun antarmuka web yang responsif. Terbiasa menerjemahkan desain UI menjadi komponen web interaktif serta melakukan integrasi API. Proficient in HTML5, CSS3, JavaScript ES6, React.js, and Tailwind CSS.",
+    "word_count": 36
+  },
+  {
+    "profile_id": "P04_C2",
+    "base_id": "P04",
+    "role_group": "frontend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior Frontend Developer memiliki pengalaman 1 tahun dalam membangun antarmuka web yang responsif. Terbiasa menerjemahkan desain UI menjadi komponen web interaktif serta melakukan integrasi API. Proficient in HTML5, CSS3, JavaScript ES6, React.js, and Tailwind CSS.",
+    "word_count": 36
+  },
+  {
+    "profile_id": "P04_C3",
+    "base_id": "P04",
+    "role_group": "frontend",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior Frontend Developer with 1 year of experience building responsive web interfaces. Skilled in translating UI designs into interactive web components and performing API integration. Menguasai HTML5, CSS3, JavaScript ES6, React.js, dan Tailwind CSS.",
+    "word_count": 35
+  },
+  {
+    "profile_id": "P05_C0",
+    "base_id": "P05",
+    "role_group": "frontend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Pengembang Frontend Tingkat Menengah memiliki pengalaman 3 tahun dalam mengoptimalkan performa aplikasi web modern. Berpengalaman mengelola state aplikasi kompleks, arsitektur render server-side, dan pengujian unit antarmuka. Menguasai TypeScript, Next.js, Redux Toolkit, Vue.js, dan framework pengujian Jest.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P05_C1",
+    "base_id": "P05",
+    "role_group": "frontend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Pengembang Frontend Tingkat Menengah memiliki pengalaman 3 tahun dalam mengoptimalkan performa aplikasi web modern. Berpengalaman mengelola state aplikasi kompleks, arsitektur render server-side, dan pengujian unit antarmuka. Proficient in TypeScript, Next.js, Redux Toolkit, Vue.js, and Jest testing framework.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P05_C2",
+    "base_id": "P05",
+    "role_group": "frontend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level Frontend Engineer memiliki pengalaman 3 tahun dalam mengoptimalkan performa aplikasi web modern. Berpengalaman mengelola state aplikasi kompleks, arsitektur render server-side, dan pengujian unit antarmuka. Proficient in TypeScript, Next.js, Redux Toolkit, Vue.js, and Jest testing framework.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P05_C3",
+    "base_id": "P05",
+    "role_group": "frontend",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level Frontend Engineer with 3 years of experience optimizing modern web application performance. Experienced in complex state management, server-side rendering architecture, and UI unit testing. Menguasai TypeScript, Next.js, Redux Toolkit, Vue.js, dan framework pengujian Jest.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P06_C0",
+    "base_id": "P06",
+    "role_group": "frontend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Pengembang Frontend Senior memiliki pengalaman 5 tahun merancang arsitektur sistem frontend berskala masif. Fokus pada arsitektur micro-frontend, aksesibilitas web standar internasional, dan optimasi kecepatan muat halaman. Menguasai React, GraphQL, Progressive Web Apps (PWA), TypeScript, dan metrik Core Web Vitals.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P06_C1",
+    "base_id": "P06",
+    "role_group": "frontend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Pengembang Frontend Senior memiliki pengalaman 5 tahun merancang arsitektur sistem frontend berskala masif. Fokus pada arsitektur micro-frontend, aksesibilitas web standar internasional, dan optimasi kecepatan muat halaman. Proficient in React, GraphQL, Progressive Web Apps (PWA), TypeScript, and Core Web Vitals metrics.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P06_C2",
+    "base_id": "P06",
+    "role_group": "frontend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Frontend Engineer memiliki pengalaman 5 tahun merancang arsitektur sistem frontend berskala masif. Fokus pada arsitektur micro-frontend, aksesibilitas web standar internasional, dan optimasi kecepatan muat halaman. Proficient in React, GraphQL, Progressive Web Apps (PWA), TypeScript, and Core Web Vitals metrics.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P06_C3",
+    "base_id": "P06",
+    "role_group": "frontend",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Frontend Engineer with 5 years of experience architecting large-scale frontend systems. Focused on micro-frontend architecture, international web accessibility standards, and page speed optimization. Menguasai React, GraphQL, Progressive Web Apps (PWA), TypeScript, dan metrik Core Web Vitals.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P07_C0",
+    "base_id": "P07",
+    "role_group": "data_analyst",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Analis Data Junior memiliki pengalaman 1 tahun dalam pengolahan data dan penyusunan laporan operasional. Terbiasa melakukan pembersihan data, ekstraksi kueri basis data, dan pembuatan dasbor visualisasi interaktif. Menguasai SQL, Microsoft Excel tingkat lanjut, Tableau, dan pemograman Python dasar.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P07_C1",
+    "base_id": "P07",
+    "role_group": "data_analyst",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Analis Data Junior memiliki pengalaman 1 tahun dalam pengolahan data dan penyusunan laporan operasional. Terbiasa melakukan pembersihan data, ekstraksi kueri basis data, dan pembuatan dasbor visualisasi interaktif. Proficient in SQL, advanced Microsoft Excel, Tableau, and basic Python programming.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P07_C2",
+    "base_id": "P07",
+    "role_group": "data_analyst",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior Data Analyst memiliki pengalaman 1 tahun dalam pengolahan data dan penyusunan laporan operasional. Terbiasa melakukan pembersihan data, ekstraksi kueri basis data, dan pembuatan dasbor visualisasi interaktif. Proficient in SQL, advanced Microsoft Excel, Tableau, and basic Python programming.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P07_C3",
+    "base_id": "P07",
+    "role_group": "data_analyst",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior Data Analyst with 1 year of experience in data processing and operational reporting. Skilled in data cleaning, database query extraction, and building interactive visualization dashboards. Menguasai SQL, Microsoft Excel tingkat lanjut, Tableau, dan pemograman Python dasar.",
+    "word_count": 37
+  },
+  {
+    "profile_id": "P08_C0",
+    "base_id": "P08",
+    "role_group": "data_analyst",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Analis Data Tingkat Menengah memiliki pengalaman 3 tahun dalam analisis statistik bisnis dan validasi metrik produk. Berpengalaman mengolah data mentah menjadi wawasan bisnis, merancang eksperimen A/B testing, dan analisis tren pasar. Menguasai Python, Power BI, PostgreSQL, Google Looker Studio, dan metode analisis statistik.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P08_C1",
+    "base_id": "P08",
+    "role_group": "data_analyst",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Analis Data Tingkat Menengah memiliki pengalaman 3 tahun dalam analisis statistik bisnis dan validasi metrik produk. Berpengalaman mengolah data mentah menjadi wawasan bisnis, merancang eksperimen A/B testing, dan analisis tren pasar. Proficient in Python, Power BI, PostgreSQL, Google Looker Studio, and statistical analysis methods.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P08_C2",
+    "base_id": "P08",
+    "role_group": "data_analyst",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level Data Analyst memiliki pengalaman 3 tahun dalam analisis statistik bisnis dan validasi metrik produk. Berpengalaman mengolah data mentah menjadi wawasan bisnis, merancang eksperimen A/B testing, dan analisis tren pasar. Proficient in Python, Power BI, PostgreSQL, Google Looker Studio, and statistical analysis methods.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P08_C3",
+    "base_id": "P08",
+    "role_group": "data_analyst",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level Data Analyst with 3 years of experience in business statistical analysis and product metrics validation. Experienced in transforming raw data into business insights, designing A/B test experiments, and market trend analysis. Menguasai Python, Power BI, PostgreSQL, Google Looker Studio, dan metode analisis statistik.",
+    "word_count": 46
+  },
+  {
+    "profile_id": "P09_C0",
+    "base_id": "P09",
+    "role_group": "data_analyst",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Analis Data Senior memiliki pengalaman 5 tahun memimpin inisiatif intelijen bisnis dan strategi data enterprise. Berpengalaman merancang arsitektur gudang data, pemodelan data bisnis, dan menyajikan rekomendasi strategis bagi pimpinan. Menguasai Google BigQuery, dbt (data build tool), Python, arsitektur Data Warehouse, dan Product Analytics.",
+    "word_count": 43
+  },
+  {
+    "profile_id": "P09_C1",
+    "base_id": "P09",
+    "role_group": "data_analyst",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Analis Data Senior memiliki pengalaman 5 tahun memimpin inisiatif intelijen bisnis dan strategi data enterprise. Berpengalaman merancang arsitektur gudang data, pemodelan data bisnis, dan menyajikan rekomendasi strategis bagi pimpinan. Proficient in Google BigQuery, dbt (data build tool), Python, Data Warehouse architecture, and Product Analytics.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P09_C2",
+    "base_id": "P09",
+    "role_group": "data_analyst",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Data Analyst memiliki pengalaman 5 tahun memimpin inisiatif intelijen bisnis dan strategi data enterprise. Berpengalaman merancang arsitektur gudang data, pemodelan data bisnis, dan menyajikan rekomendasi strategis bagi pimpinan. Proficient in Google BigQuery, dbt (data build tool), Python, Data Warehouse architecture, and Product Analytics.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P09_C3",
+    "base_id": "P09",
+    "role_group": "data_analyst",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Data Analyst with 5 years of experience leading business intelligence initiatives and enterprise data strategy. Experienced in data warehouse architecture, business data modeling, and presenting strategic recommendations to executives. Menguasai Google BigQuery, dbt (data build tool), Python, arsitektur Data Warehouse, dan Product Analytics.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P10_C0",
+    "base_id": "P10",
+    "role_group": "data_scientist",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Ilmuwan Data Junior memiliki pengalaman 1 tahun dalam membangun model pembelajaran mesin prediktif. Terbiasa melakukan pra-pemrosesan data, rekayasa fitur, serta evaluasi performa algoritma klasifikasi. Menguasai bahasa Python, Scikit-Learn, Pandas, NumPy, dan analisis regresi.",
+    "word_count": 35
+  },
+  {
+    "profile_id": "P10_C1",
+    "base_id": "P10",
+    "role_group": "data_scientist",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Ilmuwan Data Junior memiliki pengalaman 1 tahun dalam membangun model pembelajaran mesin prediktif. Terbiasa melakukan pra-pemrosesan data, rekayasa fitur, serta evaluasi performa algoritma klasifikasi. Proficient in Python, Scikit-Learn, Pandas, NumPy, and regression analysis.",
+    "word_count": 35
+  },
+  {
+    "profile_id": "P10_C2",
+    "base_id": "P10",
+    "role_group": "data_scientist",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior Data Scientist memiliki pengalaman 1 tahun dalam membangun model pembelajaran mesin prediktif. Terbiasa melakukan pra-pemrosesan data, rekayasa fitur, serta evaluasi performa algoritma klasifikasi. Proficient in Python, Scikit-Learn, Pandas, NumPy, and regression analysis.",
+    "word_count": 35
+  },
+  {
+    "profile_id": "P10_C3",
+    "base_id": "P10",
+    "role_group": "data_scientist",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior Data Scientist with 1 year of experience building predictive machine learning models. Skilled in data preprocessing, feature engineering, and classification algorithm evaluation. Menguasai bahasa Python, Scikit-Learn, Pandas, NumPy, dan analisis regresi.",
+    "word_count": 33
+  },
+  {
+    "profile_id": "P11_C0",
+    "base_id": "P11",
+    "role_group": "data_scientist",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Ilmuwan Data Tingkat Menengah memiliki pengalaman 3 tahun dalam mengembangkan solusi pemrosesan bahasa alami dan visi komputer. Berpengalaman melakukan eksperimen pembelajaran mendalam, optimasi hiperparameter, dan penyebaran model via API. Menguasai PyTorch, TensorFlow, XGBoost, pustaka NLP, dan kontainerisasi Docker.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P11_C1",
+    "base_id": "P11",
+    "role_group": "data_scientist",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Ilmuwan Data Tingkat Menengah memiliki pengalaman 3 tahun dalam mengembangkan solusi pemrosesan bahasa alami dan visi komputer. Berpengalaman melakukan eksperimen pembelajaran mendalam, optimasi hiperparameter, dan penyebaran model via API. Proficient in PyTorch, TensorFlow, XGBoost, NLP libraries, and Docker containerization.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P11_C2",
+    "base_id": "P11",
+    "role_group": "data_scientist",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level Data Scientist memiliki pengalaman 3 tahun dalam mengembangkan solusi pemrosesan bahasa alami dan visi komputer. Berpengalaman melakukan eksperimen pembelajaran mendalam, optimasi hiperparameter, dan penyebaran model via API. Proficient in PyTorch, TensorFlow, XGBoost, NLP libraries, and Docker containerization.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P11_C3",
+    "base_id": "P11",
+    "role_group": "data_scientist",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level Data Scientist with 3 years of experience developing natural language processing and computer vision solutions. Experienced in deep learning experimentation, hyperparameter tuning, and model deployment via API. Menguasai PyTorch, TensorFlow, XGBoost, pustaka NLP, dan kontainerisasi Docker.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P12_C0",
+    "base_id": "P12",
+    "role_group": "data_scientist",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Ilmuwan Data Senior memiliki pengalaman 5 tahun merancang sistem kecerdasan buatan enterprise dan alur kerja MLOps. Fokus pada fine-tuning Large Language Models (LLM), pemodelan terdistribusi data skala besar, dan tata kelola model AI. Menguasai PyTorch, HuggingFace Transformers, MLflow, Apache Spark, dan alur kerja MLOps.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P12_C1",
+    "base_id": "P12",
+    "role_group": "data_scientist",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Ilmuwan Data Senior memiliki pengalaman 5 tahun merancang sistem kecerdasan buatan enterprise dan alur kerja MLOps. Fokus pada fine-tuning Large Language Models (LLM), pemodelan terdistribusi data skala besar, dan tata kelola model AI. Proficient in PyTorch, HuggingFace Transformers, MLflow, Apache Spark, and MLOps pipelines.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P12_C2",
+    "base_id": "P12",
+    "role_group": "data_scientist",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Data Scientist memiliki pengalaman 5 tahun merancang sistem kecerdasan buatan enterprise dan alur kerja MLOps. Fokus pada fine-tuning Large Language Models (LLM), pemodelan terdistribusi data skala besar, dan tata kelola model AI. Proficient in PyTorch, HuggingFace Transformers, MLflow, Apache Spark, and MLOps pipelines.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P12_C3",
+    "base_id": "P12",
+    "role_group": "data_scientist",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Data Scientist with 5 years of experience architecting enterprise AI systems and MLOps workflows. Focused on Large Language Model (LLM) fine-tuning, large-scale distributed training, and AI governance. Menguasai PyTorch, HuggingFace Transformers, MLflow, Apache Spark, dan alur kerja MLOps.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P13_C0",
+    "base_id": "P13",
+    "role_group": "uiux",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Desainer UI/UX Junior memiliki pengalaman 1 tahun dalam merancang antarmuka aplikasi seluler dan web. Terbiasa membuat sketsa kawat (wireframe), alur pengguna, prototipe interaktif, dan pengujian ketergunaan dasar. Menguasai Figma, FigJam, prinsip-prinsip desain responsif, dan alat perancangan prototipe.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P13_C1",
+    "base_id": "P13",
+    "role_group": "uiux",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Desainer UI/UX Junior memiliki pengalaman 1 tahun dalam merancang antarmuka aplikasi seluler dan web. Terbiasa membuat sketsa kawat (wireframe), alur pengguna, prototipe interaktif, dan pengujian ketergunaan dasar. Proficient in Figma, FigJam, responsive design principles, and prototyping tools.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P13_C2",
+    "base_id": "P13",
+    "role_group": "uiux",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior UI/UX Designer memiliki pengalaman 1 tahun dalam merancang antarmuka aplikasi seluler dan web. Terbiasa membuat sketsa kawat (wireframe), alur pengguna, prototipe interaktif, dan pengujian ketergunaan dasar. Proficient in Figma, FigJam, responsive design principles, and prototyping tools.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P13_C3",
+    "base_id": "P13",
+    "role_group": "uiux",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior UI/UX Designer with 1 year of experience designing mobile and web application interfaces. Skilled in creating wireframes, user flows, interactive prototypes, and basic usability testing. Menguasai Figma, FigJam, prinsip-prinsip desain responsif, dan alat perancangan prototipe.",
+    "word_count": 38
+  },
+  {
+    "profile_id": "P14_C0",
+    "base_id": "P14",
+    "role_group": "uiux",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Desainer UI/UX Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang sistem desain dan arsitektur informasi produk. Berpengalaman melakukan riset pengguna kualitatif, peta perjalanan pengguna, dan kolaborasi erat dengan tim pengembang. Menguasai Figma, komponen Design System, metode User Research, dan pengujian A/B testing.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P14_C1",
+    "base_id": "P14",
+    "role_group": "uiux",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Desainer UI/UX Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang sistem desain dan arsitektur informasi produk. Berpengalaman melakukan riset pengguna kualitatif, peta perjalanan pengguna, dan kolaborasi erat dengan tim pengembang. Proficient in Figma, Design System components, User Research methodologies, and A/B testing.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P14_C2",
+    "base_id": "P14",
+    "role_group": "uiux",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level UI/UX Designer memiliki pengalaman 3 tahun dalam merancang sistem desain dan arsitektur informasi produk. Berpengalaman melakukan riset pengguna kualitatif, peta perjalanan pengguna, dan kolaborasi erat dengan tim pengembang. Proficient in Figma, Design System components, User Research methodologies, and A/B testing.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P14_C3",
+    "base_id": "P14",
+    "role_group": "uiux",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level UI/UX Designer with 3 years of experience in design system architecture and product information design. Experienced in qualitative user research, user journey mapping, and close developer handoff collaboration. Menguasai Figma, komponen Design System, metode User Research, dan pengujian A/B testing.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P15_C0",
+    "base_id": "P15",
+    "role_group": "uiux",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Desainer Produk UI/UX Senior memiliki pengalaman 5 tahun memimpin strategi desain produk digital end-to-end. Fokus pada penyelarasan tujuan bisnis dengan pengalaman pengguna, arsitektur UX aplikasi kompleks, dan kepemimpinan desain. Menguasai Strategi Produk Digital, Figma, Arsitektur UX, Riset Pengguna Lanjutan, dan Handoff Sistem.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P15_C1",
+    "base_id": "P15",
+    "role_group": "uiux",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Desainer Produk UI/UX Senior memiliki pengalaman 5 tahun memimpin strategi desain produk digital end-to-end. Fokus pada penyelarasan tujuan bisnis dengan pengalaman pengguna, arsitektur UX aplikasi kompleks, dan kepemimpinan desain. Proficient in Digital Product Strategy, Figma, UX Architecture, Advanced User Research, and System Handoff.",
+    "word_count": 46
+  },
+  {
+    "profile_id": "P15_C2",
+    "base_id": "P15",
+    "role_group": "uiux",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Product UI/UX Designer memiliki pengalaman 5 tahun memimpin strategi desain produk digital end-to-end. Fokus pada penyelarasan tujuan bisnis dengan pengalaman pengguna, arsitektur UX aplikasi kompleks, dan kepemimpinan desain. Proficient in Digital Product Strategy, Figma, UX Architecture, Advanced User Research, and System Handoff.",
+    "word_count": 46
+  },
+  {
+    "profile_id": "P15_C3",
+    "base_id": "P15",
+    "role_group": "uiux",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Product UI/UX Designer with 5 years of experience leading end-to-end digital product design strategy. Focused on aligning business vision with user experience, complex application UX architecture, and design leadership. Menguasai Strategi Produk Digital, Figma, Arsitektur UX, Riset Pengguna Lanjutan, dan Handoff Sistem.",
+    "word_count": 46
+  },
+  {
+    "profile_id": "P16_C0",
+    "base_id": "P16",
+    "role_group": "devops",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Insinyur DevOps Junior memiliki pengalaman 1 tahun dalam mengelola server Linux dan otomasi alur kerja CI/CD. Terbiasa mengonfigurasi kontainer aplikasi, pembuatan skrip automasi Shell, dan manajemen server web. Menguasai sistem operasi Linux, Docker, GitLab CI/CD, Nginx, dan skrip Bash.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P16_C1",
+    "base_id": "P16",
+    "role_group": "devops",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Insinyur DevOps Junior memiliki pengalaman 1 tahun dalam mengelola server Linux dan otomasi alur kerja CI/CD. Terbiasa mengonfigurasi kontainer aplikasi, pembuatan skrip automasi Shell, dan manajemen server web. Proficient in Linux OS, Docker, GitLab CI/CD, Nginx, and Bash scripting.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P16_C2",
+    "base_id": "P16",
+    "role_group": "devops",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior DevOps Engineer memiliki pengalaman 1 tahun dalam mengelola server Linux dan otomasi alur kerja CI/CD. Terbiasa mengonfigurasi kontainer aplikasi, pembuatan skrip automasi Shell, dan manajemen server web. Proficient in Linux OS, Docker, GitLab CI/CD, Nginx, and Bash scripting.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P16_C3",
+    "base_id": "P16",
+    "role_group": "devops",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior DevOps Engineer with 1 year of experience managing Linux servers and CI/CD workflow automation. Skilled in application container configuration, Shell automation scripting, and web server management. Menguasai sistem operasi Linux, Docker, GitLab CI/CD, Nginx, dan skrip Bash.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P17_C0",
+    "base_id": "P17",
+    "role_group": "devops",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Insinyur DevOps Tingkat Menengah memiliki pengalaman 3 tahun dalam mengelola klaster Kubernetes dan infrastruktur komputasi awan. Berpengalaman menerapkan Infrastructure as Code (IaC), pemantauan sistem otomatis, dan pemulihan bencana. Menguasai Kubernetes, Terraform, Amazon Web Services (AWS), Ansible, Prometheus, dan Grafana.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P17_C1",
+    "base_id": "P17",
+    "role_group": "devops",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Insinyur DevOps Tingkat Menengah memiliki pengalaman 3 tahun dalam mengelola klaster Kubernetes dan infrastruktur komputasi awan. Berpengalaman menerapkan Infrastructure as Code (IaC), pemantauan sistem otomatis, dan pemulihan bencana. Proficient in Kubernetes, Terraform, Amazon Web Services (AWS), Ansible, Prometheus, and Grafana.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P17_C2",
+    "base_id": "P17",
+    "role_group": "devops",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level DevOps Engineer memiliki pengalaman 3 tahun dalam mengelola klaster Kubernetes dan infrastruktur komputasi awan. Berpengalaman menerapkan Infrastructure as Code (IaC), pemantauan sistem otomatis, dan pemulihan bencana. Proficient in Kubernetes, Terraform, Amazon Web Services (AWS), Ansible, Prometheus, and Grafana.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P17_C3",
+    "base_id": "P17",
+    "role_group": "devops",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level DevOps Engineer with 3 years of experience managing Kubernetes clusters and cloud infrastructure. Experienced in implementing Infrastructure as Code (IaC), automated system monitoring, and disaster recovery. Menguasai Kubernetes, Terraform, Amazon Web Services (AWS), Ansible, Prometheus, dan Grafana.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P18_C0",
+    "base_id": "P18",
+    "role_group": "devops",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Insinyur Keandalan Situs Senior memiliki pengalaman 5 tahun merancang arsitektur multi-cloud dengan tingkat toleransi kesalahan tinggi. Fokus pada operasional GitOps zero-downtime, keamanan infrastruktur cloud, dan optimasi efisiensi biaya komputasi. Menguasai Arsitektur Multi-Cloud, ArgoCD, Kubernetes Enterprise, Terraform, dan Keamanan Cloud.",
+    "word_count": 42
+  },
+  {
+    "profile_id": "P18_C1",
+    "base_id": "P18",
+    "role_group": "devops",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Insinyur Keandalan Situs Senior memiliki pengalaman 5 tahun merancang arsitektur multi-cloud dengan tingkat toleransi kesalahan tinggi. Fokus pada operasional GitOps zero-downtime, keamanan infrastruktur cloud, dan optimasi efisiensi biaya komputasi. Proficient in Multi-Cloud Architecture, ArgoCD, Enterprise Kubernetes, Terraform, and Cloud Security.",
+    "word_count": 43
+  },
+  {
+    "profile_id": "P18_C2",
+    "base_id": "P18",
+    "role_group": "devops",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Site Reliability Engineer (SRE) memiliki pengalaman 5 tahun merancang arsitektur multi-cloud dengan tingkat toleransi kesalahan tinggi. Fokus pada operasional GitOps zero-downtime, keamanan infrastruktur cloud, dan optimasi efisiensi biaya komputasi. Proficient in Multi-Cloud Architecture, ArgoCD, Enterprise Kubernetes, Terraform, and Cloud Security.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P18_C3",
+    "base_id": "P18",
+    "role_group": "devops",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Site Reliability Engineer (SRE) with 5 years of experience architecting fault-tolerant multi-cloud environments. Focused on zero-downtime GitOps operations, cloud infrastructure security, and computing cost optimization. Menguasai Arsitektur Multi-Cloud, ArgoCD, Kubernetes Enterprise, Terraform, dan Keamanan Cloud.",
+    "word_count": 40
+  },
+  {
+    "profile_id": "P19_C0",
+    "base_id": "P19",
+    "role_group": "network",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Insinyur Jaringan Junior memiliki pengalaman 1 tahun dalam mengonfigurasi dan memelihara infrastruktur jaringan LAN/WAN. Terbiasa melakukan pemecahan masalah konektivitas, konfigurasi perangkat keras router/switch, dan aturan firewall dasar. Menguasai perangkat Cisco, MikroTik, protokol TCP/IP, konfigurasi VLAN, dan analisis jaringan.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P19_C1",
+    "base_id": "P19",
+    "role_group": "network",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Insinyur Jaringan Junior memiliki pengalaman 1 tahun dalam mengonfigurasi dan memelihara infrastruktur jaringan LAN/WAN. Terbiasa melakukan pemecahan masalah konektivitas, konfigurasi perangkat keras router/switch, dan aturan firewall dasar. Proficient in Cisco devices, MikroTik, TCP/IP protocols, VLAN configuration, and network analysis.",
+    "word_count": 42
+  },
+  {
+    "profile_id": "P19_C2",
+    "base_id": "P19",
+    "role_group": "network",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior Network Engineer memiliki pengalaman 1 tahun dalam mengonfigurasi dan memelihara infrastruktur jaringan LAN/WAN. Terbiasa melakukan pemecahan masalah konektivitas, konfigurasi perangkat keras router/switch, dan aturan firewall dasar. Proficient in Cisco devices, MikroTik, TCP/IP protocols, VLAN configuration, and network analysis.",
+    "word_count": 42
+  },
+  {
+    "profile_id": "P19_C3",
+    "base_id": "P19",
+    "role_group": "network",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior Network Engineer with 1 year of experience configuring and maintaining LAN/WAN network infrastructure. Skilled in connectivity troubleshooting, router/switch hardware configuration, and basic firewall rules. Menguasai perangkat Cisco, MikroTik, protokol TCP/IP, konfigurasi VLAN, dan analisis jaringan.",
+    "word_count": 39
+  },
+  {
+    "profile_id": "P20_C0",
+    "base_id": "P20",
+    "role_group": "network",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Insinyur Jaringan Tingkat Menengah memiliki pengalaman 3 tahun mengelola routing dinamis enterprise dan keamanan perimeter jaringan. Berpengalaman mengonfigurasi koneksi VPN site-to-site, manajemen trafik jaringan, dan pencegahan intrusi. Menguasai sertifikasi CCNA, protokol BGP/OSPF, Fortinet Firewall, IPsec VPN, dan Wireshark.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P20_C1",
+    "base_id": "P20",
+    "role_group": "network",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Insinyur Jaringan Tingkat Menengah memiliki pengalaman 3 tahun mengelola routing dinamis enterprise dan keamanan perimeter jaringan. Berpengalaman mengonfigurasi koneksi VPN site-to-site, manajemen trafik jaringan, dan pencegahan intrusi. Proficient in CCNA certification, BGP/OSPF protocols, Fortinet Firewall, IPsec VPN, and Wireshark.",
+    "word_count": 42
+  },
+  {
+    "profile_id": "P20_C2",
+    "base_id": "P20",
+    "role_group": "network",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level Network Engineer memiliki pengalaman 3 tahun mengelola routing dinamis enterprise dan keamanan perimeter jaringan. Berpengalaman mengonfigurasi koneksi VPN site-to-site, manajemen trafik jaringan, dan pencegahan intrusi. Proficient in CCNA certification, BGP/OSPF protocols, Fortinet Firewall, IPsec VPN, and Wireshark.",
+    "word_count": 42
+  },
+  {
+    "profile_id": "P20_C3",
+    "base_id": "P20",
+    "role_group": "network",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level Network Engineer with 3 years of experience managing enterprise dynamic routing and network perimeter security. Experienced in configuring site-to-site VPN connections, network traffic management, and intrusion prevention. Menguasai sertifikasi CCNA, protokol BGP/OSPF, Fortinet Firewall, IPsec VPN, dan Wireshark.",
+    "word_count": 43
+  },
+  {
+    "profile_id": "P21_C0",
+    "base_id": "P21",
+    "role_group": "network",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Arsitek Jaringan Senior memiliki pengalaman 5 tahun merancang jaringan data center enterprise dan otomasinya. Fokus pada implementasi teknologi SD-WAN, arsitektur jaringan zero-trust, dan skrip otomasi perangkat jaringan. Menguasai sertifikasi CCNP, arsitektur SD-WAN, Palo Alto Networks, Python untuk Otomasi Jaringan, dan Ansible.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P21_C1",
+    "base_id": "P21",
+    "role_group": "network",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Arsitek Jaringan Senior memiliki pengalaman 5 tahun merancang jaringan data center enterprise dan otomasinya. Fokus pada implementasi teknologi SD-WAN, arsitektur jaringan zero-trust, dan skrip otomasi perangkat jaringan. Proficient in CCNP certification, SD-WAN architecture, Palo Alto Networks, Python for Network Automation, and Ansible.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P21_C2",
+    "base_id": "P21",
+    "role_group": "network",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior Network Architect memiliki pengalaman 5 tahun merancang jaringan data center enterprise dan otomasinya. Fokus pada implementasi teknologi SD-WAN, arsitektur jaringan zero-trust, dan skrip otomasi perangkat jaringan. Proficient in CCNP certification, SD-WAN architecture, Palo Alto Networks, Python for Network Automation, and Ansible.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P21_C3",
+    "base_id": "P21",
+    "role_group": "network",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior Network Architect with 5 years of experience designing enterprise data center networks and network automation. Focused on SD-WAN technology implementation, zero-trust network architecture, and device automation scripting. Menguasai sertifikasi CCNP, arsitektur SD-WAN, Palo Alto Networks, Python untuk Otomasi Jaringan, dan Ansible.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P22_C0",
+    "base_id": "P22",
+    "role_group": "qa_tester",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C0",
+    "query_text": "Penguji Kualitas Perangkat Lunak Junior memiliki pengalaman 1 tahun dalam pengujian manual aplikasi web dan seluler. Terbiasa menyusun dokumen skenario uji (test cases), eksekusi pengujian, dan pelaporan cacat perangkat lunak (bugs). Menguasai Pengujian Manual, alur Jira Bug Tracking, Postman untuk pengujian API, dan skenario UI.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P22_C1",
+    "base_id": "P22",
+    "role_group": "qa_tester",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C1",
+    "query_text": "Penguji Kualitas Perangkat Lunak Junior memiliki pengalaman 1 tahun dalam pengujian manual aplikasi web dan seluler. Terbiasa menyusun dokumen skenario uji (test cases), eksekusi pengujian, dan pelaporan cacat perangkat lunak (bugs). Proficient in Manual Testing, Jira Bug Tracking workflows, Postman for API testing, and UI test cases.",
+    "word_count": 47
+  },
+  {
+    "profile_id": "P22_C2",
+    "base_id": "P22",
+    "role_group": "qa_tester",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C2",
+    "query_text": "Junior QA Tester memiliki pengalaman 1 tahun dalam pengujian manual aplikasi web dan seluler. Terbiasa menyusun dokumen skenario uji (test cases), eksekusi pengujian, dan pelaporan cacat perangkat lunak (bugs). Proficient in Manual Testing, Jira Bug Tracking workflows, Postman for API testing, and UI test cases.",
+    "word_count": 45
+  },
+  {
+    "profile_id": "P22_C3",
+    "base_id": "P22",
+    "role_group": "qa_tester",
+    "level": "Junior",
+    "exp_years": 1,
+    "condition": "C3",
+    "query_text": "Junior QA Tester with 1 year of experience in manual web and mobile application testing. Skilled in writing test case documentation, test execution, and software bug reporting. Menguasai Pengujian Manual, alur Jira Bug Tracking, Postman untuk pengujian API, dan skenario UI.",
+    "word_count": 41
+  },
+  {
+    "profile_id": "P23_C0",
+    "base_id": "P23",
+    "role_group": "qa_tester",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C0",
+    "query_text": "Insinyur Otomasi QA Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang skrip pengujian otomatis dan pengujian beban. Berpengalaman mengembangkan kerangka kerja otomasi antarmuka web, pengujian API terintegrasi, dan siklus regresi otomatis. Menguasai Selenium WebDriver, Cypress, Apache JMeter, skrip API Automation, dan JavaScript/Python.",
+    "word_count": 43
+  },
+  {
+    "profile_id": "P23_C1",
+    "base_id": "P23",
+    "role_group": "qa_tester",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C1",
+    "query_text": "Insinyur Otomasi QA Tingkat Menengah memiliki pengalaman 3 tahun dalam merancang skrip pengujian otomatis dan pengujian beban. Berpengalaman mengembangkan kerangka kerja otomasi antarmuka web, pengujian API terintegrasi, dan siklus regresi otomatis. Proficient in Selenium WebDriver, Cypress, Apache JMeter, API Automation scripting, and JavaScript/Python.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P23_C2",
+    "base_id": "P23",
+    "role_group": "qa_tester",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C2",
+    "query_text": "Mid-level QA Automation Engineer memiliki pengalaman 3 tahun dalam merancang skrip pengujian otomatis dan pengujian beban. Berpengalaman mengembangkan kerangka kerja otomasi antarmuka web, pengujian API terintegrasi, dan siklus regresi otomatis. Proficient in Selenium WebDriver, Cypress, Apache JMeter, API Automation scripting, and JavaScript/Python.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P23_C3",
+    "base_id": "P23",
+    "role_group": "qa_tester",
+    "level": "Mid",
+    "exp_years": 3,
+    "condition": "C3",
+    "query_text": "Mid-level QA Automation Engineer with 3 years of experience designing automated test scripts and performance load testing. Experienced in developing web UI automation frameworks, integrated API testing, and automated regression cycles. Menguasai Selenium WebDriver, Cypress, Apache JMeter, skrip API Automation, dan JavaScript/Python.",
+    "word_count": 44
+  },
+  {
+    "profile_id": "P24_C0",
+    "base_id": "P24",
+    "role_group": "qa_tester",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C0",
+    "query_text": "Arsitek Otomasi QA Senior memiliki pengalaman 5 tahun merancang strategi penjaminan kualitas enterprise dan integrasi CI/CD. Fokus pada integrasi skrip pengujian otomatis ke dalam pipeline CI/CD, otomasi aplikasi seluler, dan metodologi TDD/BDD. Menguasai Arsitektur Otomasi QA, Playwright, Appium untuk pengujian seluler, integrasi CI/CD, dan Cucumber BDD.",
+    "word_count": 50
+  },
+  {
+    "profile_id": "P24_C1",
+    "base_id": "P24",
+    "role_group": "qa_tester",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C1",
+    "query_text": "Arsitek Otomasi QA Senior memiliki pengalaman 5 tahun merancang strategi penjaminan kualitas enterprise dan integrasi CI/CD. Fokus pada integrasi skrip pengujian otomatis ke dalam pipeline CI/CD, otomasi aplikasi seluler, dan metodologi TDD/BDD. Proficient in QA Automation Architecture, Playwright, Appium for mobile testing, CI/CD integration, and Cucumber BDD.",
+    "word_count": 51
+  },
+  {
+    "profile_id": "P24_C2",
+    "base_id": "P24",
+    "role_group": "qa_tester",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C2",
+    "query_text": "Senior QA Automation Architect memiliki pengalaman 5 tahun merancang strategi penjaminan kualitas enterprise dan integrasi CI/CD. Fokus pada integrasi skrip pengujian otomatis ke dalam pipeline CI/CD, otomasi aplikasi seluler, dan metodologi TDD/BDD. Proficient in QA Automation Architecture, Playwright, Appium for mobile testing, CI/CD integration, and Cucumber BDD.",
+    "word_count": 51
+  },
+  {
+    "profile_id": "P24_C3",
+    "base_id": "P24",
+    "role_group": "qa_tester",
+    "level": "Senior",
+    "exp_years": 5,
+    "condition": "C3",
+    "query_text": "Senior QA Automation Architect with 5 years of experience designing enterprise quality assurance strategies and CI/CD integration. Focused on integrating test suites into CI/CD pipelines, mobile application automation, and TDD/BDD methodologies. Menguasai Arsitektur Otomasi QA, Playwright, Appium untuk pengujian seluler, integrasi CI/CD, dan Cucumber BDD.",
+    "word_count": 49
+  }
+]
